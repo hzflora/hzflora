@@ -1,0 +1,22 @@
+SETUP
+
+1. Create or open the GitHub profile repository:
+   https://github.com/hzflora/hzflora
+
+2. Copy README.md and the assets folder into the repository root.
+
+3. Replace:
+   YOUR_LINKEDIN_URL
+   YOUR_EMAIL_ADDRESS
+
+4. Verify repository links for AnimeRank, Overload Tracker and Restaurant Data,
+   then add direct buttons if those repositories are public.
+
+Expected structure:
+
+hzflora/
+├── README.md
+└── assets/
+    ├── hero-banner.png
+    ├── profile-emblem.png
+    └── project-landscape.png
