@@ -108,11 +108,15 @@ The project represents my interest in data processing, automation and building s
 ### Languages
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![QML](https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![RUBY](https://img.shields.io/badge/Ruby-3.3+-red?style=for-the-badge&logo=ruby) 
+
 
 ### Platforms and tools
 
@@ -226,8 +230,8 @@ I prefer systems that are understandable under failure, not only when everything
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-hzflora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hzflora)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ADD%20PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ADD%20PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atakan-mergen-32222a360)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mergenatakan@gmail.com)
 
 <br />
 
