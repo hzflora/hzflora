@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-banner.png" alt="Atakan MERGEN — Software Developer and Linux Enthusiast" width="100%" />
+<img src="./assets/hero-banner.gif" alt="Atakan MERGEN — Software Developer and Linux Enthusiast" width="100%" />
 
 <br />
 
@@ -44,7 +44,7 @@ principles:
 </td>
 <td width="32%" align="center" valign="top">
 
-<img src="./assets/profile-emblem.png" alt="HZFLORA profile emblem" width="100%" />
+<img src="./assets/profile-emblem.gif" alt="HZFLORA profile emblem" width="100%" />
 
 </td>
 </tr>
@@ -62,7 +62,7 @@ principles:
 
 ## `project_landscape`
 
-<img src="./assets/project-landscape.png" alt="Desktop, backend and automation project landscape" width="100%" />
+<img src="./assets/project-landscape.gif" alt="Desktop, backend and automation project landscape" width="100%" />
 
 ### Pardus UI
 
