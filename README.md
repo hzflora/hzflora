@@ -14,11 +14,19 @@
 
 I'm **Atakan MERGEN**, a software developer and **Anadolu University** student based in Türkiye.
 
+I also took part in the **42 Kocaeli Piscine**, building my foundations in **C programming**, **Unix shell** and hands-on problem solving.
+
 I build desktop applications, backend systems and tools that make everyday work easier. My interests sit where **thoughtful interfaces**, **clear architecture** and **reliable software** meet.
 
 I enjoy the work that comes after the first prototype: testing on real hardware, understanding unexpected behavior and turning an idea into something people can use.
 
 ## Selected work
+
+### [42 Piscine · 42 Kocaeli ↗](https://github.com/hzflora/42-piscine)
+
+Projects and exercises from my Piscine experience at **42 Kocaeli**. This collection follows my work with **C**, from pointers and string manipulation to recursion and memory allocation, alongside **Unix shell** exercises and the **Rush01** project.
+
+**Inside the repository:** [C00–C07](https://github.com/hzflora/42-piscine) · [Shell00](https://github.com/hzflora/42-piscine/tree/master/Shell00) · [Rush01](https://github.com/hzflora/42-piscine/tree/master/Rush01)
 
 ### [Pardus UI ↗](https://github.com/twncer/pardus)
 
@@ -40,6 +48,7 @@ A **Kotlin** application for tracking progressive overload and workout developme
 
 | Area | Technologies |
 | :--- | :--- |
+| Programming foundations | C · Unix shell |
 | Desktop & interfaces | Qt · QML · C++ |
 | Backend & bots | C# · .NET · Discord.Net |
 | Applications & data | Kotlin · Java · Python |
