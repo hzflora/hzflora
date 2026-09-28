@@ -1,22 +1,15 @@
-SETUP
+PROFILE README
 
-1. Create or open the GitHub profile repository:
-   https://github.com/hzflora/hzflora
+The English profile is published from README.md in hzflora/hzflora.
+Its artwork uses original typography and geometric line art with a shared palette:
+ink navy, muted lavender and soft mint. Text stays stationary in both animations.
 
-2. Copy README.md and the assets folder into the repository root.
+Active assets:
+  assets/profile-header.gif - quiet orbital motion, 20-second loop
+  assets/workflow.gif       - subtle workflow highlight, 12-second loop
 
-3. Replace:
-   YOUR_LINKEDIN_URL
-   YOUR_EMAIL_ADDRESS
+Regenerate both assets with Python 3 and Pillow:
+  python scripts/generate_assets.py
 
-4. Verify repository links for AnimeRank, Overload Tracker and Restaurant Data,
-   then add direct buttons if those repositories are public.
-
-Expected structure:
-
-hzflora/
-├── README.md
-└── assets/
-    ├── hero-banner.png
-    ├── profile-emblem.png
-    └── project-landscape.png
+The images are stored in this repository; no external image service is required.
+Earlier artwork is retained in assets but is not displayed in the current README.
